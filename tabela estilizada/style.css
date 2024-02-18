@@ -1,0 +1,28 @@
+.cabecalho_moda{
+    background-color: #BB86FC ;
+    color: white;
+    font-weight: bold;
+    
+       
+}
+
+
+.cabecalho_casa{
+    background-color: #00C4B4 ;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+.produtos{
+    background-color:#424250 ;
+    color: white;
+    
+}
+
+
+
+td{
+    padding: 10px;
+}
